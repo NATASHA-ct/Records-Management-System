@@ -17,9 +17,9 @@ To get a local copy up and running follow these simple steps.
 - Django
 
 ### Installation
-1. Clone the repo
+Clone the repo
    ```sh
-   git clone https://github.com/my_username/records-management-system.git
+   git clone https://github.com/NATASHA-ct/Records-Management-System.git
    
 Navigate into the project directory
 
