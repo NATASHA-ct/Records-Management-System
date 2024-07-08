@@ -60,10 +60,23 @@ Open a Pull Request
 
 
 ## Screenshots
-<img width="960" alt="image" src="https://github.com/NATASHA-ct/djan/assets/106079814/7f17e2f5-9066-49e0-9bd0-f084d80aa5cd">
+<img width="960" alt="image" src="https://github.com/NATASHA-ct/Records-Management-System/assets/106079814/438b8eff-95a2-41c7-81e7-0ee302bec484">
 
-<img width="841" alt="image" src="https://github.com/NATASHA-ct/djan/assets/106079814/b7d11915-568c-4610-92af-29812c470331">
+<br></br>
+
+<img width="429" alt="image" src="https://github.com/NATASHA-ct/Records-Management-System/assets/106079814/46336a69-ab38-4bd6-879d-fc17deb2a44f">
+
+<br></br>
+
+<img width="935" alt="image" src="https://github.com/NATASHA-ct/Records-Management-System/assets/106079814/a16b678f-1909-402a-9df0-57a7e68a8ef9">
+
+<br></br>
+
+<img width="866" alt="image" src="https://github.com/NATASHA-ct/Records-Management-System/assets/106079814/37df7d94-cb6c-4285-ab31-ca21c5f380e7">
+
+<br></br>
+<img width="876" alt="image" src="https://github.com/NATASHA-ct/Records-Management-System/assets/106079814/6ea9f289-acc8-4762-b985-4e3cfa2306b5">
 
 
-<img width="952" alt="image" src="https://github.com/NATASHA-ct/djan/assets/106079814/9db2bd8f-f74e-4137-b0ee-ac8ef72a2165">
+
 
