@@ -17,32 +17,29 @@ To get a local copy up and running follow these simple steps.
 - Django
 
 ### Installation
-Clone the repo
-   ```sh
-   git clone https://github.com/NATASHA-ct/Records-Management-System.git
-   
-Navigate into the project directory
+#### Clone the repo
+```
+git clone https://github.com/NATASHA-ct/Records-Management-System.git
 
 
 ```
 cd dcrm
-```
-Install dependencies
+
+#### Install dependencies
 ```
 pip install -r requirements.txt
 ```
 
-Setup
-Apply migrations
+#### Setup & Apply migrations
 ```
 python manage.py migrate
 ```
 
-Create a superuser (optional but recommended)
+#### Create a superuser (optional but recommended)
 ```
 python manage.py createsuperuser
 ```
-Run the development server
+#### Run the development server
 ```
 python manage.py runserver
 ```
